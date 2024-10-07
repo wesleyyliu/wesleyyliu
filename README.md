@@ -1,4 +1,6 @@
-## Hi there 👋
+## I'm Wesley!
+
+I am a student at the University of Pennsylvania studying Computer Science. I enjoy learning about software engineering and machine learning!
 
 <!--
 **wesleyyliu/wesleyyliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
